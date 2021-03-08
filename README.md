@@ -1,4 +1,4 @@
 # Album Reviews
 
 ## Description <br>
-Simple project made with NodeJs, React and Postgresql. The project is a simple website for users to submit reviews from any music albums they like.
+Simple project made with NodeJs, Express and Postgresql. The project is a simple backend application for users to submit reviews of any music albums they like.
